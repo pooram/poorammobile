@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pooram</string>
+    <string name="year">Year</string>
+    <string name="location">Location</string>
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
+    <string name="app_description">Nav Drawer Example</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6240509589412213/9190061888</string>
+</resources>
